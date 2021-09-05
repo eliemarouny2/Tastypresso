@@ -29,6 +29,31 @@
       <link rel='stylesheet' href='css/custom.css' type='text/css' media='all' />
       <link rel='stylesheet' href='css/core.messages.css' type='text/css' media='all' />
       <link rel='stylesheet' href='css/core.portfolio.css' type='text/css' media='all' />
+
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
+         integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <!--Floating WhatsApp css-->
+      <link rel="stylesheet"
+         href="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.css">
+      <!--Floating WhatsApp javascript-->
+      <script type="text/javascript"
+         src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.js"></script>
+      <script type="text/javascript">
+         $(function () {
+            $('#WAButton').floatingWhatsApp({
+               phone: '+96170545675', //WhatsApp Business phone number
+               headerTitle: 'Chat with us on WhatsApp!', //Popup Title
+               popupMessage: 'Hello, how can we help you?', //Popup Message
+               showPopup: true, //Enables popup display
+               buttonImage: '<img src="images/whatsapp.png" />', //Button Image
+               //headerColor: 'crimson', //Custom header color
+               //backgroundColor: 'crimson', //Custom background button color
+               position: "left" //Position: left | right
+
+            });
+         });
+      </script>
    </head>
 
    <body
@@ -37,6 +62,7 @@
       <a id="toc_home" class="sc_anchor" title="Home"
          data-description="&lt;i&gt;Return to Home&lt;/i&gt; - &lt;br&gt;navigate to home page of the site"
          data-icon="icon-home" data-url="index.php" data-separator="yes"></a>
+      <div id="WAButton" class="index_front"></div>
       <a id="toc_top" class="sc_anchor" title="To Top"
          data-description="&lt;i&gt;Back to top&lt;/i&gt; - &lt;br&gt;scroll to top of the page"
          data-icon="icon-double-up" data-url="" data-separator="yes"></a>

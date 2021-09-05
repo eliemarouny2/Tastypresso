@@ -4701,7 +4701,12 @@ blockquote cite {
 	text-align:left;
 	float:right;
 }
-
+.margin_small{
+margin-bottom: 35px !important;
+}
+.index_front{
+	z-index:100;
+}
 
 /* Testimonials and Twitter area */
 .testimonials_wrap.sc_section,

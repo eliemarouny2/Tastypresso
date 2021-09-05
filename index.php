@@ -89,7 +89,7 @@
                                         <div class="sc_section_inner">
                                             <div class="wpb_text_column wpb_content_element ">
                                                 <div class="wpb_wrapper">
-                                                    <p>
+                                                    <p class="margin_small">
                                                         From a cultural standpoint, coffeehouses largely
                                                         serve as centers of social interaction:
                                                         the coffeehouse provides patrons with a place to
@@ -128,7 +128,7 @@
                                                                         sweet delight</h2>
                                                                     <div class="wpb_text_column wpb_content_element vc_custom_1455040756358">
                                                                         <div class="wpb_wrapper">
-                                                                            <p>
+                                                                            <p class="margin_small">
                                                                                 The coffee is brewed by
                                                                                 first roasting the green
                                                                                 coffee beans over hot coals
@@ -160,148 +160,150 @@
                         </div>
                     </div>
                     <div class="vc_row-full-width"></div>
-                    <div class="vc_row wpb_row vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                            <div class="vc_column-inner ">
-                                <div class="wpb_wrapper">
-                                    <div class="vc_empty_space space12p">
-                                        <span class="vc_empty_space_inner"></span>
-                                    </div>
-                                    <div class="sc_section aligncenter w80" data-animation="animated fadeInUp normal">
-                                        <div class="sc_section_inner">
-                                            <h2 class="sc_title sc_title_regular sc_align_center margin_top_huge margin_bottom_small">
-                                                coffee menu</h2>
-                                            <div class="wpb_text_column wpb_content_element ">
-                                                <div class="wpb_wrapper">
-                                                    <p>
-                                                        “I’m looking to nature for my inspiration. Letting
-                                                        the natural produce speak.
-                                                        There’s so much out there, so much elegance and
-                                                        beauty.” &#8211; PETER GILMORE
-                                                    </p>
-                                                </div>
-                                            </div>
-                                            <a href="contacts.html" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">Contact Us</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
 
-                    <div id="sc_tab_263-2" class="sc_tabs_content margin_bottom">
-                        <div id="sc_menuitems_887_wrap" class="sc_menuitems_wrap">
-                            <div id="sc_menuitems_887" class="sc_menuitems sc_menuitems_style_menuitems-1 sc_slider_nopagination sc_slider_nocontrols margin_top_medium" data-interval="6434" data-slides-per-view="2">
-                                <div class="sc_columns columns_wrap">
-                                    <div class="wpb_wrapper margin_bottom">
-                                        <h2 class="sc_title sc_title_regular sc_align_center margin_bottom_small">Our Products</h2>
-                                        <div class="sc_section aligncenter">
-                                            <div class="sc_section_inner">
-                                                <div class="wpb_text_column wpb_content_element ">
+                    <div class="page_content_wrap page_paddings_yes">
+                        <div class="content_wrap">
+                            <div class="content">
+                                <article class="post_item post_item_single post_featured_default post_format_standard page hentry">
+                                    <section class="post_content">
+                                        <div class="vc_row wpb_row vc_row-fluid">
+                                            <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                <div class="vc_column-inner ">
                                                     <div class="wpb_wrapper">
-                                                        <p>
-                                                            Duis sit amet lacus maximus quam bibendum ultrices. Etiam fermentum id turpis viverra gravida.
-                                                            Phasellus fringilla sapien eu maximus. Pellentesque nibh risus, ultrices sit amet efficitur eu, ut tortor.
-                                                        </p>
+                                                        <h2 class="sc_title sc_title_regular sc_align_center margin_bottom_small">bon appetit</h2>
+                                                        <div class="sc_section aligncenter">
+                                                            <div class="sc_section_inner">
+                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                    <div class="wpb_wrapper">
+                                                                        <p>
+                                                                            Duis sit amet lacus maximus quam bibendum ultrices. Etiam fermentum id turpis viverra gravida.
+                                                                            Phasellus fringilla sapien eu maximus. Pellentesque nibh risus, ultrices sit amet efficitur eu, ut tortor.
+                                                                        </p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div id="sc_tabs_730" class="sc_tabs sc_tabs_style_2 margin_top_large" data-active="0">
+                                                            <ul class="sc_tabs_titles">
+                                                                <li class="sc_tabs_title">
+                                                                    <a href="#sc_tab_131-2" class="theme_button" id="sc_tab_131-2_tab">Our PRoducts</a>
+                                                                </li>
+
+
+
+                                                            </ul>
+                                                            <div id="sc_tab_131-2" class="sc_tabs_content">
+                                                                <div id="sc_menuitems_347_wrap" class="sc_menuitems_wrap">
+                                                                    <div id="sc_menuitems_347" class="sc_menuitems sc_menuitems_style_menuitems-1 sc_slider_nopagination sc_slider_nocontrols margin_top_medium" data-interval="7492" data-slides-per-view="2">
+                                                                        <div class="sc_columns columns_wrap">
+                                                                            <div class="column-1_2 column_padding_bottom">
+                                                                                <div id="sc_menuitems_347_1" class="sc_menuitems_item sc_menuitems_item_1" data-url="menu-item-1.html">
+                                                                                    <div class="sc_menuitem_image">
+                                                                                        <a class="show_popup_menuitem" href="#">
+                                                                                            <img width="90" height="90" alt="" src="images/2000x2000.png">
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- <div class="sc_menuitem_price">$20</div> -->
+                                                                                    <div class="sc_menuitem_title">
+                                                                                        <a class="show_popup_menuitem" href="#">Product 1</a>
+                                                                                    </div>
+                                                                                    <div class="sc_menuitem_description">Duis autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="column-1_2 column_padding_bottom">
+                                                                                <div id="sc_menuitems_347_2" class="sc_menuitems_item sc_menuitems_item_2" data-url="menu-item-2.html">
+                                                                                    <div class="sc_menuitem_image">
+                                                                                        <a class="show_popup_menuitem" href="#">
+                                                                                            <img width="90" height="90" alt="" src="images/2000x2000.png">
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- <div class="sc_menuitem_price">$15</div> -->
+                                                                                    <div class="sc_menuitem_title">
+                                                                                        <a class="show_popup_menuitem" href="#">Product 2</a>
+                                                                                    </div>
+                                                                                    <div class="sc_menuitem_description">Duis autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="column-1_2 column_padding_bottom">
+                                                                                <div id="sc_menuitems_347_3" class="sc_menuitems_item sc_menuitems_item_3" data-url="menu-item-3.html">
+                                                                                    <div class="sc_menuitem_image">
+                                                                                        <a class="show_popup_menuitem" href="#">
+                                                                                            <img width="90" height="90" alt="" src="images/2000x2000.png">
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- <div class="sc_menuitem_price">$13</div> -->
+                                                                                    <div class="sc_menuitem_title">
+                                                                                        <a class="show_popup_menuitem" href="#">Product 3</a>
+                                                                                    </div>
+                                                                                    <div class="sc_menuitem_description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam...</div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="column-1_2 column_padding_bottom">
+                                                                                <div id="sc_menuitems_347_4" class="sc_menuitems_item sc_menuitems_item_4" data-url="menu-item-4.html">
+                                                                                    <div class="sc_menuitem_image">
+                                                                                        <a class="show_popup_menuitem" href="#">
+                                                                                            <img width="90" height="90" alt="" src="images/2000x2000.png">
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- <div class="sc_menuitem_price">$14.60</div> -->
+                                                                                    <div class="sc_menuitem_title">
+                                                                                        <a class="show_popup_menuitem" href="#">Product 4</a>
+                                                                                    </div>
+                                                                                    <div class="sc_menuitem_description">Autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="column-1_2 column_padding_bottom">
+                                                                                <div id="sc_menuitems_347_5" class="sc_menuitems_item sc_menuitems_item_5" data-url="menu-item-5.html">
+                                                                                    <div class="sc_menuitem_image">
+                                                                                        <a class="show_popup_menuitem" href="#">
+                                                                                            <img width="90" height="90" alt="" src="images/2000x2000.png">
+                                                                                        </a>
+                                                                                    </div>
+                                                                                    <!-- <div class="sc_menuitem_price">$9.10</div> -->
+                                                                                    <div class="sc_menuitem_title">
+                                                                                        <a class="show_popup_menuitem" href="#">Product 5</a>
+                                                                                    </div>
+                                                                                    <div class="sc_menuitem_description">Autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-
-
-
-                                    <div class="column-1_2 column_padding_bottom">
-                                        <div id="sc_menuitems_887_1" class="sc_menuitems_item sc_menuitems_item_1" data-url="menu-item-1.html">
-                                            <div class="sc_menuitem_image">
-                                                <a class="show_popup_menuitem" href="#">
-                                                    <img width="90" height="90" alt="" src="images/2000x2000.png">
-                                                </a>
+                                        <div class="vc_row wpb_row vc_row-fluid">
+                                            <div class="wpb_column vc_column_container vc_col-sm-12">
+                                                <div class="vc_column-inner ">
+                                                    <div class="wpb_wrapper">
+                                                        <div class="sc_section aligncenter">
+                                                            <div class="sc_section_inner">
+                                                                <div class="sc_line sc_line_position_center_center sc_line_style_solid margin_top_large margin_bottom_large"></div>
+                                                                <h2 class="sc_title sc_title_regular sc_align_center margin_bottom_small">coffee menu</h2>
+                                                                <div class="wpb_text_column wpb_content_element ">
+                                                                    <div class="wpb_wrapper">
+                                                                        <p class="margin_small">“I’m looking to nature for my inspiration. Letting the natural produce speak. There’s so much out there, so much elegance and beauty.” &#8211; PETER GILMORE</p>
+                                                                    </div>
+                                                                </div>
+                                                                <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium margin_bottom_large">view full menu</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
                                             </div>
-
-                                            <div class="sc_menuitem_title">
-                                                <a class="show_popup_menuitem" href="#">Product 1</a>
-                                            </div>
-                                            <div class="sc_menuitem_description">Autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
                                         </div>
-                                    </div>
-                                    <div class="column-1_2 column_padding_bottom">
-                                        <div id="sc_menuitems_887_2" class="sc_menuitems_item sc_menuitems_item_2" data-url="menu-item-2.html">
-                                            <div class="sc_menuitem_image">
-                                                <a class="show_popup_menuitem" href="#">
-                                                    <img width="90" height="90" alt="" src="images/2000x2000.png">
-                                                </a>
-                                            </div>
-
-                                            <div class="sc_menuitem_title">
-                                                <a class="show_popup_menuitem" href="#">Product 2</a>
-                                            </div>
-                                            <div class="sc_menuitem_description">Duis autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
-                                        </div>
-                                    </div>
-                                    <div class="column-1_2 column_padding_bottom">
-                                        <div id="sc_menuitems_887_3" class="sc_menuitems_item sc_menuitems_item_3" data-url="menu-item-1.html">
-                                            <div class="sc_menuitem_image">
-                                                <a class="show_popup_menuitem" href="#">
-                                                    <img width="90" height="90" alt="" src="images/2000x2000.png">
-                                                </a>
-                                            </div>
-
-                                            <div class="sc_menuitem_title">
-                                                <a class="show_popup_menuitem" href="#">Product 3</a>
-                                            </div>
-                                            <div class="sc_menuitem_description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam...</div>
-                                        </div>
-                                    </div>
-                                    <div class="column-1_2 column_padding_bottom">
-                                        <div id="sc_menuitems_887_4" class="sc_menuitems_item sc_menuitems_item_4" data-url="menu-item-2.html">
-                                            <div class="sc_menuitem_image">
-                                                <a class="show_popup_menuitem" href="#">
-                                                    <img width="90" height="90" alt="" src="images/2000x2000.png">
-                                                </a>
-                                            </div>
-
-                                            <div class="sc_menuitem_title">
-                                                <a class="show_popup_menuitem" href="#">Product 4</a>
-                                            </div>
-                                            <div class="sc_menuitem_description">Autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
-                                        </div>
-                                    </div>
-                                    <div class="column-1_2 column_padding_bottom">
-                                        <div id="sc_menuitems_887_5" class="sc_menuitems_item sc_menuitems_item_5" data-url="menu-item-1.html">
-                                            <div class="sc_menuitem_image">
-                                                <a class="show_popup_menuitem" href="#">
-                                                    <img width="90" height="90" alt="" src="images/2000x2000.png">
-                                                </a>
-                                            </div>
-
-                                            <div class="sc_menuitem_title">
-                                                <a class="show_popup_menuitem" href="#">Product 5</a>
-                                            </div>
-                                            <div class="sc_menuitem_description">Duis autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
-                                        </div>
-                                    </div>
-                                    <div class="column-1_2 column_padding_bottom">
-                                        <div id="sc_menuitems_887_6" class="sc_menuitems_item sc_menuitems_item_6" data-url="menu-item-2.html">
-                                            <div class="sc_menuitem_image">
-                                                <a class="show_popup_menuitem" href="#">
-                                                    <img width="90" height="90" alt="" src="images/2000x2000.png">
-                                                </a>
-                                            </div>
-
-                                            <div class="sc_menuitem_title">
-                                                <a class="show_popup_menuitem" href="#">Product 6</a>
-                                            </div>
-                                            <div class="sc_menuitem_description">Ul autem vel eum iriure dolor in hendrerit in vulputate velitesse molestie...</div>
-                                        </div>
-                                    </div>
-                                </div>
+                                    </section>
+                                </article>
+                                <section class="related_wrap related_wrap_empty"></section>
                             </div>
                         </div>
                     </div>
-
-
 
                     <div class="vc_row-full-width"></div>
                     <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
@@ -449,4 +451,9 @@
         </div>
     </div>
 </div>
+
 <?php include('includes/footer.html'); ?>
+<script type='text/javascript' src='js/vendor/ui/widget.min.js'></script>
+<script type='text/javascript' src='js/vendor/ui/tabs.min.js'></script>
+<script type='text/javascript' src='js/vendor/ui/effect.min.js'></script>
+<script type='text/javascript' src='js/vendor/ui/effect-fade.min.js'></script>
