@@ -4566,6 +4566,9 @@ blockquote cite {
 .widget_area .widget_calendar .month_next a:before {
 	content: '\e8b0';
 }
+.margin_smallest{
+margin-bottom: 3px !important;
+}
 
 /* Widget: RSS */
 .widget_area .widget_rss .widget_title a {
@@ -5004,6 +5007,8 @@ footer.twitter_wrap .sc_section_overlay {
 }
 .scroll_to_top.show {
 	filter: alpha(opacity=100);
+	margin-bottom: 90px;
+	margin-right: -12px;
 	opacity: 1;
 	bottom: 2em;
 }

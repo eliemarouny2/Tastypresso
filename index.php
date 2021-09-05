@@ -278,26 +278,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="vc_row wpb_row vc_row-fluid">
-                                            <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="sc_section aligncenter">
-                                                            <div class="sc_section_inner">
-                                                                <div class="sc_line sc_line_position_center_center sc_line_style_solid margin_top_large margin_bottom_large"></div>
-                                                                <h2 class="sc_title sc_title_regular sc_align_center margin_bottom_small">coffee menu</h2>
-                                                                <div class="wpb_text_column wpb_content_element ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <p class="margin_small">“I’m looking to nature for my inspiration. Letting the natural produce speak. There’s so much out there, so much elegance and beauty.” &#8211; PETER GILMORE</p>
-                                                                    </div>
-                                                                </div>
-                                                                <a href="#" class="sc_button sc_button_square sc_button_style_border_1 sc_button_size_medium margin_top_medium margin_bottom_large">view full menu</a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+
                                     </section>
                                 </article>
                                 <section class="related_wrap related_wrap_empty"></section>
@@ -311,7 +292,7 @@
                             <div class="vc_column-inner ">
                                 <div class="wpb_wrapper">
                                     <div class="wpb_revslider_element wpb_content_element">
-                                        <div id="rev_slider_2_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
+                                        <div id="rev_slider_2_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container margin_smallest">
                                             <div id="rev_slider_2_2" class="rev_slider fullwidthabanner" data-version="5.1">
                                                 <ul>
 
@@ -445,6 +426,60 @@
                     </div>
                     <div class="vc_row-full-width"></div>
                     <div class="vc_row-full-width"></div>
+                    <dl class="faq">
+                        <dt>
+                            <button aria-expanded="false" aria-controls="faq1_desc">
+                                What do I do if I have a permit for an assigned lot, but can't find a space there?
+                            </button>
+                        </dt>
+                        <dd>
+                            <p id="faq1_desc" class="desc">
+                                Park at the nearest available parking meter without paying the meter
+                                and call 999-999-9999 to report the problem. We will note and approve your alternate
+                                location and will investigate the cause of the shortage in your assigned facility.
+                            </p>
+                        </dd>
+                        <dt>
+                            <button aria-expanded="false" aria-controls="faq2_desc">
+                                What do I do if I lose my permit or if my permit is stolen?
+                            </button>
+                        </dt>
+                        <dd>
+                            <p id="faq2_desc" class="desc">
+                                You should come to the Parking office and report the
+                                loss. There is a fee to replace your lost permit. However, if your permit was stolen, a
+                                copy of a police report needs to be submitted along with a stolen parking permit form for
+                                a fee replacement exemption.
+                            </p>
+                        </dd>
+                        <dt>
+                            <button aria-expanded="false" aria-controls="faq3_desc">
+                                Is there free parking on holidays?
+                            </button>
+                        </dt>
+                        <dd>
+                            <p id="faq3_desc" class="desc">
+                                All facilities are restricted from 2:00 am - 6:00 am on all days. No
+                                exceptions are made for any holiday or recess except those officially listed as a
+                                <q>
+                                    Holidays
+                                </q>
+                                in the calendar. Please note: 24-hour rental spaces, 24-hour rental lots, and
+                                disabled parking is enforced at all times.
+                            </p>
+                        </dd>
+                        <dt>
+                            <button aria-expanded="false" aria-controls="faq4_desc">
+                                Do all parking facilities have the same enforcement rules?
+                            </button>
+                        </dt>
+                        <dd>
+                            <p id="faq4_desc" class="desc">
+                                Some parking facility restrictions differ from others. Be sure to
+                                take note of the signs at each lot entrance.
+                            </p>
+                        </dd>
+                    </dl>
                 </section>
             </article>
             <section class="related_wrap related_wrap_empty"></section>
