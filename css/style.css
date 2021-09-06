@@ -118,6 +118,9 @@ a {
 	text-decoration:none;
 	background:transparent;
 }
+.centered{
+	text-align: center;
+}
 a,
 a:hover,
 a:focus,
@@ -5007,10 +5010,13 @@ footer.twitter_wrap .sc_section_overlay {
 }
 .scroll_to_top.show {
 	filter: alpha(opacity=100);
-	margin-bottom: 90px;
+	/* margin-bottom: 90px; */
 	margin-right: -12px;
 	opacity: 1;
 	bottom: 2em;
+}
+.margin_top{
+margin-top: 200px;
 }
 
 
@@ -5830,6 +5836,7 @@ body #booked-profile-page input[type="submit"], body #booked-profile-page button
 }
 .header_mobile {
     position: relative;
+	 background-color: rgba(24,24,24,255);
     z-index: 10003;
     display: none;
 }

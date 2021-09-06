@@ -4670,6 +4670,10 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small { height:
 	margin: 0 0 1em;
 	text-align:center;
 }
+.sc_item_title2 {
+	margin: 0 0 1em;
+	text-align:left;
+}
 .sc_item_title:after {
 	content:' ';
 	display:block;
@@ -4687,6 +4691,15 @@ body.sidebar_hide .sc_recent_news_style_news-announce .post_size_small { height:
 	line-height:1.5em;
 	margin: 0.25em auto 4em;
 	text-align:center;
+    width: 80%;
+    color: #a6a19f;
+}
+.sc_item_descr2 {
+	font-size:1em;
+	font-weight:400;
+	line-height:1.5em;
+	margin: 0.25em auto 4em;
+	text-align:left;
     width: 80%;
     color: #a6a19f;
 }
