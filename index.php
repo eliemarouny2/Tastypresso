@@ -340,12 +340,12 @@
 
                                                                 Drinking arabic coffee is an old social tradition, it is usually served with fresh dates
                                                             </div>
-                                                            <div class="tp-caption no-style" id="slide-4-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off">
+                                                            <div class="tp-caption no-style" id="slide-4-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="on">
                                                                 <a href="menu.php" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">view
                                                                     product details</a>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-4-layer-5" data-x="70" data-y="205" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="image_fixer" src="images/image1.png" alt="" data-ww="524px" data-hh="523px" data-no-retina>
+                                                                <img class="" src="images/image1.png" alt="" data-ww="524px" data-hh="523px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-4-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
                                                                 <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
@@ -375,7 +375,7 @@
                                                                 <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-5-layer-7" data-x="49" data-y="62" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="image_fixer" src="images/image2.png" alt="" data-ww="571px" data-hh="699px" data-no-retina>
+                                                                <img class="" src="images/image2.png" alt="" data-ww="571px" data-hh="699px" data-no-retina>
                                                             </div>
                                                         </li>
                                                         <!--end of slider 2-->
@@ -398,10 +398,10 @@
                                                                     product details</a>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-6-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
+                                                                <img src="images/second_slider_el_2.png respo" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-6-layer-8" data-x="68" data-y="156" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="image_fixer" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
+                                                                <img class="  respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
                                                             </div>
                                                         </li>
                                                         <!--end of slider 3-->
@@ -422,65 +422,33 @@
 
 
                             <div class="vc_row-full-width"><br><br></div>
-                            <style>
-                                .slider {
-                                    width: 900px;
-                                    margin: 0 auto 20px;
-                                    text-align: center;
-                                }
-
-                                .slider .photos {
-                                    position: relative;
-                                    height: 433px;
-                                }
-
-                                .slider .photos img {
-                                    width: 100%;
-                                    position: absolute;
-                                    left: 0;
-                                    opacity: 0;
-                                    transition: opacity 1s;
-                                }
-
-                                .slider .photos img.shown {
-                                    opacity: 1;
-                                }
-
-                                .prev:before,
-                                .next:before {
-                                    color: #fff;
-                                    font-size: 100px;
-                                    position: absolute;
-                                    top: 35%;
-                                    cursor: pointer;
-                                }
-
-                                .prev:before {
-                                    content: '<';
-                                    left: 0;
-                                }
-
-                                .next:before {
-                                    content: '>';
-                                    right: 0;
-                                }
-                            </style>
-                            <div class="slider slider-1 margin_bottombig">
-                                <div class="photos">
-                                    <img src="images/coffee1.png" class="shown" alt="">
-                                    <img src="images/coffee2.png" alt="">
-
-
-                                    <div class="buttons">
-                                        <div class="prev"></div>
-                                        <div class="next"></div>
+                            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <img class="d-block w-100" src="images/coffee1.png" alt="First slide">
                                     </div>
+                                    <div class="carousel-item">
+                                        <img class="d-block w-100" src="images/coffee2.png" alt="Second slide">
+                                    </div>
+
                                 </div>
+                                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
                             </div>
 
 
                             <div class="vc_row-full-width" id="faq">
-                                <h1> FAQ </h1>
+                                <h1> FAQ </h1> <br>
                             </div>
                             <dl class="faq">
                                 <dt>
@@ -526,13 +494,72 @@
                                 </dd>
                             </dl>
 
+
                         </div>
 
 
             </div>
             </section>
             </article>
-            <section class="related_wrap related_wrap_empty"></section>
+
+            <div class="page_content_wrap page_paddings_yes" id="contacts">
+                <div class="content_wrap">
+                    <div class="content">
+                        <article class="post_item post_item_single post_featured_default post_format_standard page hentry">
+                            <section class="post_content">
+                                <div class="vc_row wpb_row vc_row-fluid vc_custom_1455183321063">
+                                    <div class="wpb_column vc_column_container vc_col-sm-12">
+                                        <div class="vc_column-inner ">
+                                            <div class="wpb_wrapper">
+                                                <div class="sc_section margin_right_null margin_left_null aligncenter">
+                                                    <div class="sc_section_inner">
+                                                        <h5 class="sc_title sc_title_regular margin_top_small">follow us</h5>
+                                                        <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_medium">
+                                                            <div class="sc_socials_item">
+                                                                <a href="#" target="_blank" class="social_icons social_facebook">
+                                                                    <span class="icon-facebook"></span>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div id="sc_form_132_wrap" class="sc_form_wrap">
+                                                            <div id="sc_form_132" class="sc_form sc_form_style_form_1 margin_top_small margin_bottom_medium">
+                                                                <form id="sc_form_132_form" data-formtype="form_1" method="post" action="includes/sendmail.php">
+                                                                    <div class="sc_form_info">
+                                                                        <div class="sc_form_item sc_form_field label_over">
+                                                                            <label class="required" for="sc_form_username">Name</label>
+                                                                            <input id="sc_form_username" type="text" name="username" placeholder="Name *">
+                                                                        </div>
+                                                                        <div class="sc_form_item sc_form_field label_over">
+                                                                            <label class="required" for="sc_form_email">E-mail</label>
+                                                                            <input id="sc_form_email" type="text" name="email" placeholder="E-mail *">
+                                                                        </div>
+                                                                        <div class="sc_form_item sc_form_field label_over">
+                                                                            <label class="required" for="sc_form_subj">Subject</label>
+                                                                            <input id="sc_form_subj" type="text" name="subject" placeholder="Subject">
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="sc_form_item sc_form_message label_over">
+                                                                        <label class="required" for="sc_form_message">Message</label>
+                                                                        <textarea id="sc_form_message" name="message" placeholder="Message"></textarea>
+                                                                    </div>
+                                                                    <div class="sc_form_item sc_form_button">
+                                                                        <button>Send Message</button>
+                                                                    </div>
+                                                                    <div class="result sc_infobox"></div>
+                                                                </form>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </article>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     </div>
