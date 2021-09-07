@@ -2334,7 +2334,10 @@ li.opened > a > .open_child_menu:before {
 	        transition: all ease .3s;
 }
 .margin_bottom {
-	margin-bottom: 75px;
+	margin-bottom: 75px !important;
+}
+.margin_bottombig {
+	margin-bottom: 120px !important;
 }
 .image_fixer{
 	width: 450px !important;

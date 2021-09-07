@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div id="myModal" class="modal fade">
+    <!-- <div id="myModal" class="modal fade">
         <div class="modal-dialog">
             <div class="modal-content margin_top">
                 <div class="modal-header">
@@ -32,9 +32,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
-    <section class="slider_wrap slider_fullwide slider_engine_revo slider_alias_main">
+    <section class="slider_wrap slider_fullwide slider_engine_revo slider_alias_main" id="home">
         <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
             <div id="rev_slider_1_1" class="rev_slider fullwidthabanner" data-version="5.1">
                 <ul>
@@ -422,7 +422,61 @@
 
 
                             <div class="vc_row-full-width"><br><br></div>
-                            <style></style>
+                            <style>
+                                .slider {
+                                    width: 900px;
+                                    margin: 0 auto 20px;
+                                    text-align: center;
+                                }
+
+                                .slider .photos {
+                                    position: relative;
+                                    height: 433px;
+                                }
+
+                                .slider .photos img {
+                                    width: 100%;
+                                    position: absolute;
+                                    left: 0;
+                                    opacity: 0;
+                                    transition: opacity 1s;
+                                }
+
+                                .slider .photos img.shown {
+                                    opacity: 1;
+                                }
+
+                                .prev:before,
+                                .next:before {
+                                    color: #fff;
+                                    font-size: 100px;
+                                    position: absolute;
+                                    top: 35%;
+                                    cursor: pointer;
+                                }
+
+                                .prev:before {
+                                    content: '<';
+                                    left: 0;
+                                }
+
+                                .next:before {
+                                    content: '>';
+                                    right: 0;
+                                }
+                            </style>
+                            <div class="slider slider-1 margin_bottombig">
+                                <div class="photos">
+                                    <img src="images/coffee1.png" class="shown" alt="">
+                                    <img src="images/coffee2.png" alt="">
+
+
+                                    <div class="buttons">
+                                        <div class="prev"></div>
+                                        <div class="next"></div>
+                                    </div>
+                                </div>
+                            </div>
 
 
                             <div class="vc_row-full-width" id="faq">
