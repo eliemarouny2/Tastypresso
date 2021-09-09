@@ -345,7 +345,7 @@
                                                                     product details</a>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-4-layer-5" data-x="70" data-y="205" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="image_fixer" src="images/image1.png" alt="" data-ww="524px" data-hh="523px" data-no-retina>
+                                                                <img class="" src="images/image1.png" alt="" data-ww="524px" data-hh="523px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-4-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
                                                                 <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
@@ -375,7 +375,7 @@
                                                                 <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-5-layer-7" data-x="49" data-y="62" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="image_fixer" src="images/image2.png" alt="" data-ww="571px" data-hh="699px" data-no-retina>
+                                                                <img class="" src="images/image2.png" alt="" data-ww="571px" data-hh="699px" data-no-retina>
                                                             </div>
                                                         </li>
                                                         <!--end of slider 2-->
@@ -401,7 +401,11 @@
                                                                 <img src="images/second_slider_el_2.png respo" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-6-layer-8" data-x="68" data-y="156" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
+<<<<<<< HEAD
                                                                 <img class="image_fixer  respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
+=======
+                                                                <img class="  respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
+>>>>>>> 13ab829055322f2e608ecf6d990c9f7f9f2f1dc8
                                                             </div>
                                                         </li>
                                                         <!--end of slider 3-->
@@ -447,7 +451,11 @@
                             </div>
 
 
+<<<<<<< HEAD
                             <div class="vc_row-full-width">
+=======
+                            <div class="vc_row-full-width" id="faq">
+>>>>>>> 13ab829055322f2e608ecf6d990c9f7f9f2f1dc8
                                 <h1> FAQ </h1> <br>
                             </div>
                             <dl class="faq">
