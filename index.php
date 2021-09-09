@@ -1,38 +1,24 @@
 <?php include('includes/header.html'); ?>
 
+<!-- <div id="myModal" class="modal fade margin_top">
+    <div class="modal-dialog">
+        <div class="modal-content colored">
+            <div class="modal-header">
+                <h5 class="modal-title"><img src="images/logo.png" /></h5>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+
+        </div>
+    </div>
+</div> -->
 
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-<script>
-    $(document).ready(function() {
-        $("#myModal").modal('show');
-    });
-</script>
+
 </head>
 
 <body>
-    <!-- <div id="myModal" class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content margin_top">
-                <div class="modal-header">
-                    <h5 class="modal-title">Subscribe our Newsletter</h5>
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                </div>
-                <div class="modal-body">
-                    <p>Subscribe to our mailing list to get the latest updates straight in your inbox.</p>
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control" placeholder="Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control" placeholder="Email Address">
-                        </div>
-                        <button type="submit" class="btn btn-primary">Subscribe</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div> -->
+
 
     <section class="slider_wrap slider_fullwide slider_engine_revo slider_alias_main" id="home">
         <div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
@@ -116,6 +102,7 @@
             </div>
         </div>
     </section>
+
     <div class="page_content_wrap page_paddings_yes" id="about">
         <div class="content_wrap">
             <div class="content">
@@ -131,7 +118,7 @@
                                             <div class="sc_section_inner">
                                                 <div class="wpb_text_column wpb_content_element ">
                                                     <div class="wpb_wrapper">
-                                                        <p class="margin_small">
+                                                        <p class="margin_small just">
                                                             Tastypresso believes that coffee is the most authentic source of joy and happiness for people around the globe, representing the journey of different cultures, while its aroma always reflected generosity and hospitality for the arabic heritage <br>
                                                             A blend of love, authenticity and quality defines our royal coffee and tea mixes to make it worth sharing your memories and heart-warming gatherings
                                                             <br>Quoting “Today’s good mood is sponsored by coffee” we came to recognize the drift of passionate people to handy alternatives in order to save time and effort
@@ -141,13 +128,13 @@
                                                         </p>
                                                     </div>
                                                 </div>
-                                                <a href="contacts.html" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">Contact Us</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                         <div class="vc_row-full-width"></div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1455542959565 vc_row-no-padding">
                             <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -341,8 +328,7 @@
                                                                 Drinking arabic coffee is an old social tradition, it is usually served with fresh dates
                                                             </div>
                                                             <div class="tp-caption no-style" id="slide-4-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="on">
-                                                                <a href="menu.php" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">view
-                                                                    product details</a>
+
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-4-layer-5" data-x="70" data-y="205" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
                                                                 <img class="" src="images/image1.png" alt="" data-ww="524px" data-hh="523px" data-no-retina>
@@ -368,8 +354,7 @@
 
                                                             </div>
                                                             <div class="tp-caption no-style" id="slide-5-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off">
-                                                                <a href="menu.php" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">view
-                                                                    product details</a>
+
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-5-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
                                                                 <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
@@ -394,18 +379,15 @@
                                                                 The name is derived from the word "kadak" which means strong in "hindi"
                                                             </div>
                                                             <div class="tp-caption no-style" id="slide-6-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off">
-                                                                <a href="menu.php" class="sc_button sc_button_square sc_button_style_border_2 sc_button_size_medium">view
-                                                                    product details</a>
+
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-6-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img src="images/second_slider_el_2.png respo" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
+                                                                <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
                                                             </div>
                                                             <div class="tp-caption tp-resizeme" id="slide-6-layer-8" data-x="68" data-y="156" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-<<<<<<< HEAD
-                                                                <img class="image_fixer  respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
-=======
-                                                                <img class="  respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
->>>>>>> 13ab829055322f2e608ecf6d990c9f7f9f2f1dc8
+                                                                <img class="respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
+
+
                                                             </div>
                                                         </li>
                                                         <!--end of slider 3-->
@@ -451,110 +433,110 @@
                             </div>
 
 
-<<<<<<< HEAD
                             <div class="vc_row-full-width">
-=======
-                            <div class="vc_row-full-width" id="faq">
->>>>>>> 13ab829055322f2e608ecf6d990c9f7f9f2f1dc8
-                                <h1> FAQ </h1> <br>
+
+                                <div class="vc_row-full-width" id="faq">
+
+                                    <h1> FAQ </h1> <br>
+                                </div>
+                                <dl class="faq">
+                                    <dt>
+                                        <button aria-expanded="false" aria-controls="faq1_desc">
+                                            Which machine is compatible with Tastypresso capsules?
+                                        </button>
+                                    </dt>
+                                    <dd>
+                                        <p id="faq1_desc" class="desc">
+                                            <b>Our capsules are designed for Dolce Gusto machines</b>
+                                        </p>
+                                    </dd>
+                                    <dt>
+                                        <button aria-expanded="false" aria-controls="faq2_desc">
+                                            What is the difference between Coffee and Royal Coffee?
+                                        </button>
+                                    </dt>
+                                    <dd>
+                                        <p id="faq2_desc" class="desc">
+                                            <b>Royal Coffee carries almost exclusively specialty grade green beans</b>
+                                    </dd>
+                                    <dt>
+                                        <button aria-expanded="false" aria-controls="faq3_desc">
+                                            What is Karak Tea?
+                                        </button>
+                                    </dt>
+                                    <dd>
+                                        <p id="faq3_desc" class="desc">
+                                            <b>The name is derived from the word "Kadak" which means "strong" in hindi, it expresses the long standing commercial relationship between the kingdom of bahrain and India</b>
+
+
+                                        </p>
+                                    </dd>
+                                    <dt>
+                                        <button aria-expanded="false" aria-controls="faq4_desc">
+                                            What are the benefits of Saffron?
+                                        </button>
+                                    </dt>
+                                    <dd>
+                                        <p id="faq4_desc" class="desc">
+                                            <b>Saffron is a powerful antioxidant and is diet friendly</b>
+                                        </p>
+                                    </dd>
+                                </dl>
+
+
                             </div>
-                            <dl class="faq">
-                                <dt>
-                                    <button aria-expanded="false" aria-controls="faq1_desc">
-                                        Which machine is compatible with Tastypresso capsules?
-                                    </button>
-                                </dt>
-                                <dd>
-                                    <p id="faq1_desc" class="desc">
-                                        <b>Our capsules are designed for Dolce Gusto machines</b>
-                                    </p>
-                                </dd>
-                                <dt>
-                                    <button aria-expanded="false" aria-controls="faq2_desc">
-                                        What is the difference between Coffee and Royal Coffee?
-                                    </button>
-                                </dt>
-                                <dd>
-                                    <p id="faq2_desc" class="desc">
-                                        <b>Royal Coffee carries almost exclusively specialty grade green beans</b>
-                                </dd>
-                                <dt>
-                                    <button aria-expanded="false" aria-controls="faq3_desc">
-                                        What is Karak Tea?
-                                    </button>
-                                </dt>
-                                <dd>
-                                    <p id="faq3_desc" class="desc">
-                                        <b>The name is derived from the word "Kadak" which means "strong" in hindi, it expresses the long standing commercial relationship between the kingdom of bahrain and India</b>
-
-
-                                    </p>
-                                </dd>
-                                <dt>
-                                    <button aria-expanded="false" aria-controls="faq4_desc">
-                                        What are the benefits of Saffron?
-                                    </button>
-                                </dt>
-                                <dd>
-                                    <p id="faq4_desc" class="desc">
-                                        <b>Saffron is a powerful antioxidant and is diet friendly</b>
-                                    </p>
-                                </dd>
-                            </dl>
 
 
                         </div>
+                    </section>
+                </article>
 
-
-            </div>
-            </section>
-            </article>
-
-            <div class="page_content_wrap page_paddings_yes" id="contacts">
-                <div class="content_wrap">
-                    <div class="content">
-                        <article class="post_item post_item_single post_featured_default post_format_standard page hentry">
-                            <section class="post_content">
-                                <div class="vc_row wpb_row vc_row-fluid vc_custom_1455183321063">
-                                    <div class="wpb_column vc_column_container vc_col-sm-12">
-                                        <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                                <div class="sc_section margin_right_null margin_left_null aligncenter">
-                                                    <div class="sc_section_inner">
-                                                        <h5 class="sc_title sc_title_regular margin_top_small">follow us</h5>
-                                                        <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_medium">
-                                                            <div class="sc_socials_item">
-                                                                <a href="#" target="_blank" class="social_icons social_facebook">
-                                                                    <span class="icon-facebook"></span>
-                                                                </a>
+                <div class="page_content_wrap page_paddings_yes" id="contacts">
+                    <div class="content_wrap">
+                        <div class="content">
+                            <article class="post_item post_item_single post_featured_default post_format_standard page hentry">
+                                <section class="post_content">
+                                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1455183321063">
+                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                            <div class="vc_column-inner ">
+                                                <div class="wpb_wrapper">
+                                                    <div class="sc_section margin_right_null margin_left_null aligncenter">
+                                                        <div class="sc_section_inner">
+                                                            <h5 class="sc_title sc_title_regular margin_top_small">follow us</h5>
+                                                            <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_medium">
+                                                                <div class="sc_socials_item">
+                                                                    <a href="#" target="_blank" class="social_icons social_facebook">
+                                                                        <span class="icon-facebook"></span>
+                                                                    </a>
+                                                                </div>
                                                             </div>
-                                                        </div>
-                                                        <div id="sc_form_132_wrap" class="sc_form_wrap">
-                                                            <div id="sc_form_132" class="sc_form sc_form_style_form_1 margin_top_small margin_bottom_medium">
-                                                                <form id="sc_form_132_form" data-formtype="form_1" method="post" action="includes/sendmail.php">
-                                                                    <div class="sc_form_info">
-                                                                        <div class="sc_form_item sc_form_field label_over">
-                                                                            <label class="required" for="sc_form_username">Name</label>
-                                                                            <input id="sc_form_username" type="text" name="username" placeholder="Name *">
+                                                            <div id="sc_form_132_wrap" class="sc_form_wrap">
+                                                                <div id="sc_form_132" class="sc_form sc_form_style_form_1 margin_top_small margin_bottom_medium">
+                                                                    <form id="sc_form_132_form" data-formtype="form_1" method="post" action="includes/sendmail.php">
+                                                                        <div class="sc_form_info">
+                                                                            <div class="sc_form_item sc_form_field label_over">
+                                                                                <label class="required" for="sc_form_username">Name</label>
+                                                                                <input id="sc_form_username" type="text" name="username" placeholder="Name *">
+                                                                            </div>
+                                                                            <div class="sc_form_item sc_form_field label_over">
+                                                                                <label class="required" for="sc_form_email">E-mail</label>
+                                                                                <input id="sc_form_email" type="text" name="email" placeholder="E-mail *">
+                                                                            </div>
+                                                                            <div class="sc_form_item sc_form_field label_over">
+                                                                                <label class="required" for="sc_form_subj">Subject</label>
+                                                                                <input id="sc_form_subj" type="text" name="subject" placeholder="Subject">
+                                                                            </div>
                                                                         </div>
-                                                                        <div class="sc_form_item sc_form_field label_over">
-                                                                            <label class="required" for="sc_form_email">E-mail</label>
-                                                                            <input id="sc_form_email" type="text" name="email" placeholder="E-mail *">
+                                                                        <div class="sc_form_item sc_form_message label_over">
+                                                                            <label class="required" for="sc_form_message">Message</label>
+                                                                            <textarea id="sc_form_message" name="message" placeholder="Message"></textarea>
                                                                         </div>
-                                                                        <div class="sc_form_item sc_form_field label_over">
-                                                                            <label class="required" for="sc_form_subj">Subject</label>
-                                                                            <input id="sc_form_subj" type="text" name="subject" placeholder="Subject">
+                                                                        <div class="sc_form_item sc_form_button">
+                                                                            <button>Send Message</button>
                                                                         </div>
-                                                                    </div>
-                                                                    <div class="sc_form_item sc_form_message label_over">
-                                                                        <label class="required" for="sc_form_message">Message</label>
-                                                                        <textarea id="sc_form_message" name="message" placeholder="Message"></textarea>
-                                                                    </div>
-                                                                    <div class="sc_form_item sc_form_button">
-                                                                        <button>Send Message</button>
-                                                                    </div>
-                                                                    <div class="result sc_infobox"></div>
-                                                                </form>
+                                                                        <div class="result sc_infobox"></div>
+                                                                    </form>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -562,14 +544,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                            </section>
-                        </article>
+                                </section>
+                            </article>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 
     <?php include('includes/footer.html'); ?>

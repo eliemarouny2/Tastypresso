@@ -127,6 +127,12 @@ a:focus,
 a:active {
 	outline: 0;
 }
+.just{
+	text-align: justify;
+}
+.colored{
+	background-color:rgba(24,24,24,255);
+}
 a img { border: none; }
 
 a,
@@ -5016,7 +5022,7 @@ footer.twitter_wrap .sc_section_overlay {
 	bottom: 2em;
 }
 .margin_top{
-margin-top: 200px;
+margin-top: 100px;
 }
 .margin_top120{
 margin-top: 120px !important; 

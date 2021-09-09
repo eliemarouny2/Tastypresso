@@ -328,7 +328,9 @@ body,
 	background-color: #f7f7f7;
 }
 #page_preloader {
-    background-color: #232315;
+    background-color: rgba(24,24,24,255);
+	background-image: url('../images/logo_footer.png');
+	opacity: 1 !important;
 }
 
 /*
