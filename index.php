@@ -317,7 +317,7 @@
                                                         <!--silder 1 -->
                                                         <li data-index="rs-4" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
                                                             <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                            <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-4-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Royal Arabic Coffee</div>
+                                                            <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-4-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Royal Coffee</div>
                                                             <div class="tp-caption Hotcoffee-style-8 tp-resizeme" id="slide-4-layer-2" data-x="645" data-y="359" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
                                                                 Royal BLEND <br />
                                                                 Locally Roasted
@@ -359,40 +359,11 @@
                                                             <div class="tp-caption tp-resizeme" id="slide-5-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
                                                                 <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
                                                             </div>
-                                                            <div class="tp-caption tp-resizeme" id="slide-5-layer-7" data-x="49" data-y="62" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="" src="images/image2.png" alt="" data-ww="571px" data-hh="699px" data-no-retina>
+                                                            <div class="tp-caption tp-resizeme" id="slide-4-layer-5" data-x="70" data-y="205" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
+                                                                <img class="" src="images/image2.png" alt="" data-ww="524px" data-hh="523px" data-no-retina>
                                                             </div>
                                                         </li>
                                                         <!--end of slider 2-->
-
-
-                                                        <!--slider 3 -->
-                                                        <li data-index="rs-6" data-transition="fade" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
-                                                            <img src="images/transparent.png" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                                                            <div class="tp-caption Hotcoffee-style-7 tp-resizeme" id="slide-6-layer-1" data-x="643" data-y="238" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">Karak Cardamom Tea</div>
-                                                            <div class="tp-caption Hotcoffee-style-8 tp-resizeme" id="slide-6-layer-2" data-x="645" data-y="359" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                Authentic Taste <br />
-                                                                Traditional Tea
-                                                            </div>
-                                                            <div class="tp-caption Hotcoffee-style-9 tp-resizeme" id="slide-6-layer-3" data-x="645" data-y="454" data-width="['auto']" data-height="['auto']" data-visibility="['on','on','on','off']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                                                                Karak tea has gained a lot of popularity <br />
-                                                                The name is derived from the word "kadak" which means strong in "hindi"
-                                                            </div>
-                                                            <div class="tp-caption no-style" id="slide-6-layer-4" data-x="654" data-y="565" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-responsive="off">
-
-                                                            </div>
-                                                            <div class="tp-caption tp-resizeme" id="slide-6-layer-6" data-x="649" data-y="118" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img src="images/second_slider_el_2.png" alt="" width="202" height="104" data-ww="202px" data-hh="104px" data-no-retina>
-                                                            </div>
-                                                            <div class="tp-caption tp-resizeme" id="slide-6-layer-8" data-x="68" data-y="156" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power2.easeInOut;" data-transform_out="x:-50px;opacity:0;s:500;s:500;" data-start="500" data-responsive_offset="on">
-                                                                <img class="respo" src="images/image3.png" alt="" data-ww="487px" data-hh="471px" data-no-retina>
-
-
-                                                            </div>
-                                                        </li>
-                                                        <!--end of slider 3-->
-
-
                                                     </ul>
                                                     <div class="tp-bannertimer tp-bottom"></div>
                                                 </div>
@@ -415,10 +386,10 @@
                                 </ol>
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <img class="d-block w-100" src="images/coffee1.png" alt="First slide">
+                                        <img class="d-block w-100" src="images/coffee2.png" alt="First slide">
                                     </div>
                                     <div class="carousel-item">
-                                        <img class="d-block w-100" src="images/coffee2.png" alt="Second slide">
+                                        <img class="d-block w-100" src="images/newslide.jpg" alt="Second slide">
                                     </div>
 
                                 </div>
