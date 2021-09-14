@@ -216,7 +216,7 @@
                                                                         <div id="sc_menuitems_347" class="sc_menuitems sc_menuitems_style_menuitems-1 sc_slider_nopagination sc_slider_nocontrols margin_top_medium" data-interval="7492" data-slides-per-view="2">
                                                                             <div class="sc_columns columns_wrap">
                                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                                    <div id="sc_menuitems_347_1" class="sc_menuitems_item sc_menuitems_item_1" data-url="menu-item-1.html">
+                                                                                    <div id="sc_menuitems_347_1" class="sc_menuitems_item sc_menuitems_item_1" data-url="menu-items/menu-item-1.html">
                                                                                         <div class="sc_menuitem_image">
                                                                                             <a class="show_popup_menuitem" href="#">
                                                                                                 <img width="120" height="120" alt="" src="images/teamix.png">
@@ -230,7 +230,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                                    <div id="sc_menuitems_347_2" class="sc_menuitems_item sc_menuitems_item_2" data-url="menu-item-2.html">
+                                                                                    <div id="sc_menuitems_347_2" class="sc_menuitems_item sc_menuitems_item_2" data-url="menu-items/menu-item-2.html">
                                                                                         <div class="sc_menuitem_image">
                                                                                             <a class="show_popup_menuitem" href="#">
                                                                                                 <img width="120" height="120" alt="" src="images/tea.png">
@@ -244,7 +244,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                                    <div id="sc_menuitems_347_3" class="sc_menuitems_item sc_menuitems_item_3" data-url="menu-item-3.html">
+                                                                                    <div id="sc_menuitems_347_3" class="sc_menuitems_item sc_menuitems_item_3" data-url="menu-items/menu-item-3.html">
                                                                                         <div class="sc_menuitem_image">
                                                                                             <a class="show_popup_menuitem" href="#">
                                                                                                 <img width="120" height="120" alt="" src="images/arabic.png">
@@ -258,7 +258,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                                    <div id="sc_menuitems_347_4" class="sc_menuitems_item sc_menuitems_item_4" data-url="menu-item-4.html">
+                                                                                    <div id="sc_menuitems_347_4" class="sc_menuitems_item sc_menuitems_item_4" data-url="menu-items/menu-item-4.html">
                                                                                         <div class="sc_menuitem_image">
                                                                                             <a class="show_popup_menuitem" href="#">
                                                                                                 <img width="120" height="120" alt="" src="images/royal.png">
@@ -272,7 +272,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="column-1_2 column_padding_bottom">
-                                                                                    <div id="sc_menuitems_347_5" class="sc_menuitems_item sc_menuitems_item_5" data-url="menu-item-5.html">
+                                                                                    <div id="sc_menuitems_347_5" class="sc_menuitems_item sc_menuitems_item_5" data-url="menu-items/menu-item-5.html">
                                                                                         <div class="sc_menuitem_image">
                                                                                             <a class="show_popup_menuitem" href="#">
                                                                                                 <img width="120" height="120" alt="" src="images/Saffron.png">
